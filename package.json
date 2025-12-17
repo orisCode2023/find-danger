@@ -1,0 +1,24 @@
+{
+  "name": "find-danger-week-3",
+  "version": "1.0.0",
+  "description": "Ori Mark Golan  324074533",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orisCode2023/find-danger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/orisCode2023/find-danger/issues"
+  },
+  "homepage": "https://github.com/orisCode2023/find-danger#readme",
+  "dependencies": {
+    "analiza-sync": "^1.0.1"
+  }
+}
